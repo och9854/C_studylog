@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "__locale": "c",
+        "cctype": "c",
+        "locale": "c",
+        "string.h": "c",
+        "algorithm": "cpp",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "map": "c",
+        "set": "c",
+        "unordered_map": "c",
+        "iosfwd": "cpp"
+    }
+}
